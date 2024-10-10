@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 1000px;
+    margin: auto;
+}
+
+table {
+    width: 100%;
+}
+
+thead th {
+    background-color: #28a745;
+    color: white;
+}
+
+td, th {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.modal-header {
+    background-color: #28a745;
+    color: white;
+}
+
+.no-attendance {
+    background-color: white;
+}
+
+.warning-attendance {
+    background-color: black;
+    color: white;
+}
+
+.critical-attendance {
+    background-color: red;
+    color: white;
+}
+
+.warning-icon {
+    color: orange;
+}
+
+.exam-warning {
+    color: red;
+    font-weight: bold;
+}
